@@ -15,7 +15,6 @@ This bot automatically:
 
 ## Project Structure
 
-```
 leetcode_reminder/
 ├── main.py                 # Main script handling scheduling and coordination
 ├── leetcode_listener.py    # LeetCode API integration for submission checking
